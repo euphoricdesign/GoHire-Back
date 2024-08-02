@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Ingeniería en Sistemas",
+    "educationalEntity": "Universidad Nacional",
+    "studiesState": "FINISHED",
+    "startDate": "2015-01-15",
+    "endDate": "2019-12-15",
+    "description": "Successfully completed all courses and obtained my degree in Systems Engineering."
+  },
+  {
+    "title": "Licenciatura en Administración",
+    "educationalEntity": "Universidad Central",
+    "studiesState": "INPROGRESS",
+    "startDate": "2021-03-01",
+    "endDate": "2024-11-30",
+    "description": "Currently pursuing a Bachelor's degree in Administration, focusing on business management."
+  },
+  {
+    "title": "Diplomado en Marketing",
+    "educationalEntity": "Instituto de Marketing",
+    "studiesState": "ABANDONED",
+    "startDate": "2018-06-10",
+    "endDate": "2019-01-20",
+    "description": "Abandoned the diploma due to lack of time because of work commitments."
+  },
+  {
+    "title": "Maestría en Finanzas",
+    "educationalEntity": "Escuela de Negocios",
+    "studiesState": "FINISHED",
+    "startDate": "2016-02-20",
+    "endDate": "2018-06-25",
+    "description": "Completed the Master's degree in Finance, gaining advanced knowledge in financial management."
+  },
+  {
+    "title": "Curso de Data Science",
+    "educationalEntity": "Academia Tech",
+    "studiesState": "INPROGRESS",
+    "startDate": "2023-01-10",
+    "endDate": "2023-12-20",
+    "description": "Currently studying Data Science, learning data analysis and machine learning."
+  },
+  {
+    "title": "Licenciatura en Psicología",
+    "educationalEntity": "Universidad Metropolitana",
+    "studiesState": "FINISHED",
+    "startDate": "2012-05-05",
+    "endDate": "2016-11-10",
+    "description": "Completed the Bachelor's degree in Psychology, specializing in clinical psychology."
+  },
+  {
+    "title": "Diplomado en Recursos Humanos",
+    "educationalEntity": "Instituto Profesional",
+    "studiesState": "FINISHED",
+    "startDate": "2017-03-15",
+    "endDate": "2018-12-20",
+    "description": "Finished the diploma in Human Resources, focusing on talent management."
+  },
+  {
+    "title": "Curso de Fotografía",
+    "educationalEntity": "Escuela de Artes",
+    "studiesState": "ABANDONED",
+    "startDate": "2020-09-10",
+    "endDate": "2021-02-15",
+    "description": "Abandoned the photography course due to changes in professional interests."
+  },
+  {
+    "title": "Ingeniería Civil",
+    "educationalEntity": "Politécnico Nacional",
+    "studiesState": "FINISHED",
+    "startDate": "2010-01-20",
+    "endDate": "2015-06-30",
+    "description": "Completed the Civil Engineering degree, participating in various construction projects."
+  },
+  {
+    "title": "Curso de Cocina Internacional",
+    "educationalEntity": "Escuela Culinaria",
+    "studiesState": "INPROGRESS",
+    "startDate": "2022-05-15",
+    "endDate": "2023-11-10",
+    "description": "Currently studying International Cuisine, exploring culinary techniques from around the world."
+  },
+  {
+    "title": "Maestría en Derecho",
+    "educationalEntity": "Universidad de Derecho",
+    "studiesState": "FINISHED",
+    "startDate": "2014-04-10",
+    "endDate": "2016-12-15",
+    "description": "Completed the Master's degree in Law, specializing in corporate law."
+  },
+  {
+    "title": "Curso de Programación Web",
+    "educationalEntity": "Instituto Tecnológico",
+    "studiesState": "FINISHED",
+    "startDate": "2019-03-10",
+    "endDate": "2019-08-25",
+    "description": "Completed the Web Programming course, developing skills in web development."
+  },
+  {
+    "title": "Licenciatura en Arquitectura",
+    "educationalEntity": "Universidad del Arte",
+    "studiesState": "FINISHED",
+    "startDate": "2011-02-15",
+    "endDate": "2015-11-30",
+    "description": "Obtained the Bachelor's degree in Architecture, participating in several architectural design projects."
+  },
+  {
+    "title": "Diplomado en Negocios Internacionales",
+    "educationalEntity": "Escuela de Comercio",
+    "studiesState": "INPROGRESS",
+    "startDate": "2022-01-20",
+    "endDate": "2023-10-10",
+    "description": "Currently pursuing a diploma in International Business, focusing on global trade."
+  },
+  {
+    "title": "Curso de Diseño Gráfico",
+    "educationalEntity": "Academia Creativa",
+    "studiesState": "ABANDONED",
+    "startDate": "2021-06-05",
+    "endDate": "2022-03-15",
+    "description": "Abandoned the Graphic Design course due to changes in professional interests."
+  },
+  {
+    "title": "Ingeniería Mecánica",
+    "educationalEntity": "Universidad Técnica",
+    "studiesState": "FINISHED",
+    "startDate": "2009-09-15",
+    "endDate": "2014-07-10",
+    "description": "Completed the Mechanical Engineering degree, working on design and manufacturing projects."
+  },
+  {
+    "title": "Licenciatura en Biología",
+    "educationalEntity": "Universidad de Ciencias",
+    "studiesState": "FINISHED",
+    "startDate": "2013-01-20",
+    "endDate": "2017-12-10",
+    "description": "Completed the Bachelor's degree in Biology, specializing in scientific research."
+  },
+  {
+    "title": "Curso de Finanzas Personales",
+    "educationalEntity": "Escuela de Finanzas",
+    "studiesState": "INPROGRESS",
+    "startDate": "2023-03-15",
+    "endDate": "2023-11-15",
+    "description": "Currently studying Personal Finance, learning to better manage my finances."
+  }
+]

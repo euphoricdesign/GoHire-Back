@@ -1,0 +1,426 @@
+[
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Tech Solutions Inc.",
+    "title": "Software Engineer",
+    "description": "Developed scalable software solutions for various clients.",
+    "startDate": "2015-05-01",
+    "endDate": "2018-09-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Creative Innovations",
+    "title": "Graphic Designer",
+    "description": "Designed and implemented creative graphics for marketing campaigns.",
+    "startDate": "2017-03-15",
+    "endDate": "2020-06-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "FinanceCorp",
+    "title": "Financial Analyst",
+    "description": "Analyzed financial data and created detailed reports for stakeholders.",
+    "startDate": "2012-10-20",
+    "endDate": "2016-01-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "HealthTech",
+    "title": "Biomedical Engineer",
+    "description": "Developed and tested new biomedical devices for healthcare applications.",
+    "startDate": "2016-07-05",
+    "endDate": "2019-12-01"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "EduWorld",
+    "title": "Curriculum Developer",
+    "description": "Created and implemented innovative curriculum for K-12 education.",
+    "startDate": "2018-04-10",
+    "endDate": "2021-08-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Green Energy Solutions",
+    "title": "Environmental Engineer",
+    "description": "Designed sustainable energy solutions to reduce carbon footprint.",
+    "startDate": "2014-11-01",
+    "endDate": "2017-02-28"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "AutoTech",
+    "title": "Mechanical Engineer",
+    "description": "Engineered advanced automotive systems for enhanced performance.",
+    "startDate": "2015-06-15",
+    "endDate": "2019-04-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Foodie Inc.",
+    "title": "Chef",
+    "description": "Created gourmet dishes and managed kitchen operations.",
+    "startDate": "2016-09-01",
+    "endDate": "2020-05-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "BuildIt",
+    "title": "Construction Manager",
+    "description": "Oversaw construction projects and ensured timely completion.",
+    "startDate": "2013-01-10",
+    "endDate": "2016-07-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MedTech",
+    "title": "Clinical Researcher",
+    "description": "Conducted clinical trials and analyzed medical research data.",
+    "startDate": "2017-12-01",
+    "endDate": "2020-11-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Fashion Forward",
+    "title": "Fashion Designer",
+    "description": "Designed and launched new fashion collections.",
+    "startDate": "2015-03-20",
+    "endDate": "2018-10-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "TravelCo",
+    "title": "Travel Consultant",
+    "description": "Planned and organized travel itineraries for clients.",
+    "startDate": "2014-08-15",
+    "endDate": "2019-03-05"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MarketPros",
+    "title": "Marketing Specialist",
+    "description": "Developed marketing strategies to increase brand awareness.",
+    "startDate": "2016-02-01",
+    "endDate": "2020-08-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "HomeComfort",
+    "title": "Interior Designer",
+    "description": "Designed and decorated residential and commercial spaces.",
+    "startDate": "2015-07-01",
+    "endDate": "2018-11-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "EduPro",
+    "title": "Education Consultant",
+    "description": "Provided consulting services to educational institutions.",
+    "startDate": "2013-09-10",
+    "endDate": "2017-01-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "LegalExperts",
+    "title": "Lawyer",
+    "description": "Provided legal advice and represented clients in court.",
+    "startDate": "2016-04-15",
+    "endDate": "2020-12-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "TechWorld",
+    "title": "IT Specialist",
+    "description": "Managed IT systems and provided technical support.",
+    "startDate": "2012-05-20",
+    "endDate": "2015-10-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "AgriBiz",
+    "title": "Agricultural Engineer",
+    "description": "Developed innovative agricultural techniques for increased yield.",
+    "startDate": "2017-06-10",
+    "endDate": "2021-03-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MediaWorks",
+    "title": "Journalist",
+    "description": "Covered news stories and wrote articles for publication.",
+    "startDate": "2014-11-05",
+    "endDate": "2019-01-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Sportify",
+    "title": "Fitness Trainer",
+    "description": "Developed personalized fitness plans and coached clients.",
+    "startDate": "2015-09-01",
+    "endDate": "2018-06-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "WellnessCo",
+    "title": "Health Coach",
+    "description": "Provided health and wellness coaching services to clients.",
+    "startDate": "2016-08-15",
+    "endDate": "2020-07-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "BuildSmart",
+    "title": "Architect",
+    "description": "Designed residential and commercial buildings.",
+    "startDate": "2013-12-01",
+    "endDate": "2017-05-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "RetailX",
+    "title": "Retail Manager",
+    "description": "Managed retail operations and supervised staff.",
+    "startDate": "2014-06-01",
+    "endDate": "2019-09-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "EcoLife",
+    "title": "Sustainability Consultant",
+    "description": "Provided consulting services on sustainable practices.",
+    "startDate": "2015-03-15",
+    "endDate": "2018-12-01"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Innovatech",
+    "title": "Product Manager",
+    "description": "Led product development and managed product lifecycle.",
+    "startDate": "2016-04-10",
+    "endDate": "2020-01-05"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MarketHub",
+    "title": "Sales Representative",
+    "description": "Managed client accounts and increased sales revenue.",
+    "startDate": "2012-09-20",
+    "endDate": "2016-02-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "TeachNow",
+    "title": "Teacher",
+    "description": "Taught various subjects and mentored students.",
+    "startDate": "2017-01-15",
+    "endDate": "2021-04-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "FinancePros",
+    "title": "Accountant",
+    "description": "Managed financial records and prepared tax returns.",
+    "startDate": "2013-06-10",
+    "endDate": "2016-11-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MedLife",
+    "title": "Nurse",
+    "description": "Provided patient care and assisted doctors in medical procedures.",
+    "startDate": "2014-08-05",
+    "endDate": "2019-01-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "TechWave",
+    "title": "Web Developer",
+    "description": "Developed and maintained websites and web applications.",
+    "startDate": "2015-02-01",
+    "endDate": "2018-09-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "DesignStudio",
+    "title": "UI/UX Designer",
+    "description": "Designed user interfaces and improved user experiences.",
+    "startDate": "2016-07-20",
+    "endDate": "2020-06-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "UrbanPlanners",
+    "title": "Urban Planner",
+    "description": "Developed plans and programs for land use in urban areas.",
+    "startDate": "2012-10-15",
+    "endDate": "2016-05-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "SecureTech",
+    "title": "Security Analyst",
+    "description": "Monitored and protected IT systems against security breaches.",
+    "startDate": "2017-03-10",
+    "endDate": "2020-12-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Tech Innovators",
+    "title": "Data Scientist",
+    "description": "Analyzed complex data sets to inform business decisions.",
+    "startDate": "2017-01-05",
+    "endDate": "2020-10-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Design Pros",
+    "title": "UI Designer",
+    "description": "Created user interface designs for mobile applications.",
+    "startDate": "2016-03-10",
+    "endDate": "2019-11-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MarketGurus",
+    "title": "Digital Marketer",
+    "description": "Developed and executed digital marketing campaigns.",
+    "startDate": "2018-05-01",
+    "endDate": "2021-09-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "LogiTech",
+    "title": "Logistics Manager",
+    "description": "Managed logistics operations to ensure timely deliveries.",
+    "startDate": "2015-02-15",
+    "endDate": "2018-08-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "EduLearn",
+    "title": "Educational Consultant",
+    "description": "Provided consultancy for curriculum development.",
+    "startDate": "2017-06-20",
+    "endDate": "2021-03-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "FoodTech",
+    "title": "Food Scientist",
+    "description": "Conducted research on food processing and safety.",
+    "startDate": "2016-04-05",
+    "endDate": "2020-12-01"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Green Innovators",
+    "title": "Environmental Scientist",
+    "description": "Researched environmental impacts and sustainability solutions.",
+    "startDate": "2014-11-10",
+    "endDate": "2018-09-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "BuildMaster",
+    "title": "Project Manager",
+    "description": "Led construction projects from inception to completion.",
+    "startDate": "2015-07-01",
+    "endDate": "2019-04-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "RetailPlus",
+    "title": "Retail Operations Manager",
+    "description": "Managed day-to-day retail operations and staff.",
+    "startDate": "2013-05-15",
+    "endDate": "2016-11-25"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "MediaHouse",
+    "title": "Content Writer",
+    "description": "Wrote and edited content for various media platforms.",
+    "startDate": "2014-09-20",
+    "endDate": "2018-02-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "HealthFirst",
+    "title": "Health Administrator",
+    "description": "Oversaw health services and administrative functions.",
+    "startDate": "2016-02-10",
+    "endDate": "2020-06-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "AutoInnovate",
+    "title": "Automotive Engineer",
+    "description": "Developed new automotive technologies and systems.",
+    "startDate": "2017-03-05",
+    "endDate": "2021-08-20"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "TechSavvy",
+    "title": "System Administrator",
+    "description": "Managed and maintained IT systems and networks.",
+    "startDate": "2015-04-10",
+    "endDate": "2019-01-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "FutureEnergy",
+    "title": "Energy Consultant",
+    "description": "Advised on energy efficiency and renewable energy solutions.",
+    "startDate": "2014-06-01",
+    "endDate": "2018-11-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "DataCorp",
+    "title": "Business Analyst",
+    "description": "Analyzed business processes and provided improvement recommendations.",
+    "startDate": "2013-07-20",
+    "endDate": "2017-05-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "Creative Agency",
+    "title": "Copywriter",
+    "description": "Created compelling copy for marketing materials and campaigns.",
+    "startDate": "2016-01-15",
+    "endDate": "2019-07-10"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "FinTech Solutions",
+    "title": "Product Designer",
+    "description": "Designed user-centric financial products and services.",
+    "startDate": "2015-05-01",
+    "endDate": "2018-12-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "SafeGuard",
+    "title": "Cybersecurity Specialist",
+    "description": "Implemented security measures to protect IT infrastructure.",
+    "startDate": "2017-09-05",
+    "endDate": "2020-10-30"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "NextGen Tech",
+    "title": "AI Engineer",
+    "description": "Developed AI models and machine learning algorithms.",
+    "startDate": "2018-02-10",
+    "endDate": "2021-05-15"
+  },
+  {
+    "imgUrl": "https://www.netambulo.com/storage/2011/12/404-not-found-gatito.jpg",
+    "company": "CityPlanners",
+    "title": "Civil Engineer",
+    "description": "Designed and managed infrastructure projects.",
+    "startDate": "2014-08-01",
+    "endDate": "2019-03-25"
+  }
+]
