@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001;
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.enableCors({
-    origin: ['http://localhost:3000', 'https://tu-dominio-de-produccion.vercel.app'],
+    origin: ['http://localhost:3000', 'https://go-hire-flax.vercel.app/'],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   });  
