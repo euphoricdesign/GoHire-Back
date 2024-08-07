@@ -13,8 +13,8 @@
     "datecreateUser": "2024-01-10"
   },
   {
-    "name": "JOSE MARIA",
-    "lastName": "MARQUEZ",
+    "name": "Jose Maria",
+    "lastName": "Marquez",
     "dni": 12345678,
     "country": "Argentina",
     "city": "Buenos Aires",
@@ -22,7 +22,7 @@
     "availableToWork": false,
     "email": "josemaria@example.com",
     "password": "Asd_*1234",
-    "bio": "Desarrollador experimentado en arquitectura de sistemas y liderazgo de equipos. Especializado en tecnologías cloud y microservicios.",
+    "bio": "Docente especializado en la enseñanza a estudiantes con necesidades educativas especiales. Desarrolla planes de estudio individualizados.",
     "datecreateUser": "2024-01-10"
   },
   {
@@ -35,7 +35,7 @@
     "availableToWork": false,
     "email": "maria.gomez@example.com",
     "password": "Asd_*1234",
-    "bio": "Docente universitario especializado en mecánica cuántica y física de partículas. Investiga en el campo de la computación cuántica.",
+    "bio": "Aviador experimentado en vuelos de prueba de nuevas aeronaves. Evalúa el rendimiento y la seguridad de prototipos.",
     "datecreateUser": "2024-02-15"
   },
   {
@@ -48,7 +48,7 @@
     "availableToWork": false,
     "email": "carlos.lopez@example.com",
     "password": "Asd_*1234",
-    "bio": "Profesional especializado en atención a pacientes críticos. Maneja equipos de soporte vital y administra tratamientos complejos.",
+    "bio": "Experto en instalación y mantenimiento de sistemas de purificación y tratamiento de aguas residuales industriales.",
     "datecreateUser": "2024-02-20"
   },
   {
@@ -61,7 +61,7 @@
     "availableToWork": false,
     "email": "ana.martinez@example.com",
     "password": "Asd_*1234",
-    "bio": "Especialista en derecho penal con experiencia en litigios. Defiende a clientes en casos de delitos graves y apelaciones.",
+    "bio": "Especialista en corrección de malposiciones dentales y maxilares. Utiliza tecnologías avanzadas para tratamientos personalizados.",
     "datecreateUser": "2024-03-05"
   },
   {
@@ -74,7 +74,7 @@
     "availableToWork": false,
     "email": "pedro.fernandez@example.com",
     "password": "Asd_*1234",
-    "bio": "Diseñador de espacios verdes urbanos y rurales. Especializado en jardines sostenibles y restauración de ecosistemas.",
+    "bio": "Especialista en derecho penal con experiencia en litigios. Defiende a clientes en casos de delitos graves y apelaciones.",
     "datecreateUser": "2024-03-10"
   },
   {
@@ -87,7 +87,7 @@
     "availableToWork": false,
     "email": "lucia.rodriguez@example.com",
     "password": "Asd_*1234",
-    "bio": "Experta en detección de fraudes financieros y auditorías especiales. Colabora con agencias gubernamentales en investigaciones.",
+    "bio": "Desarrollador experimentado en arquitectura de sistemas y liderazgo de equipos. Especializado en tecnologías cloud y microservicios.",
     "datecreateUser": "2024-03-15"
   },
   {
@@ -100,7 +100,7 @@
     "availableToWork": false,
     "email": "jorge.gonzalez@example.com",
     "password": "Asd_*1234",
-    "bio": "Líder de cocina en restaurante de alta cocina. Crea menús innovadores y gestiona un equipo de cocineros profesionales.",
+    "bio": "Docente universitario especializado en mecánica cuántica y física de partículas. Investiga en el campo de la computación cuántica.",
     "datecreateUser": "2024-03-20"
   },
   {
@@ -113,7 +113,7 @@
     "availableToWork": false,
     "email": "sofia.diaz@example.com",
     "password": "Asd_*1234",
-    "bio": "Especialista en corrección de malposiciones dentales y maxilares. Utiliza tecnologías avanzadas para tratamientos personalizados.",
+    "bio": "Líder de cocina en restaurante de alta cocina. Crea menús innovadores y gestiona un equipo de cocineros profesionales.",
     "datecreateUser": "2024-04-05"
   },
   {
@@ -126,7 +126,7 @@
     "availableToWork": false,
     "email": "roberto.torres@example.com",
     "password": "Asd_*1234",
-    "bio": "Especialista en farmacoterapia hospitalaria. Optimiza tratamientos medicamentosos y participa en ensayos clínicos.",
+    "bio": "Profesional especializado en atención a pacientes críticos. Maneja equipos de soporte vital y administra tratamientos complejos.",
     "datecreateUser": "2024-04-10"
   },
   {
@@ -139,7 +139,7 @@
     "availableToWork": false,
     "email": "valentina.silva@example.com",
     "password": "Asd_*1234",
-    "bio": "Reportero especializado en periodismo de datos y casos de corrupción. Maneja fuentes confidenciales y técnicas de investigación avanzadas.",
+    "bio": "Experto en detección de fraudes financieros y auditorías especiales. Colabora con agencias gubernamentales en investigaciones.",
     "datecreateUser": "2024-05-05"
   },
   {
@@ -165,7 +165,7 @@
     "availableToWork": false,
     "email": "laura.morales@example.com",
     "password": "Asd_*1234",
-    "bio": "Técnico especializado en sistemas eléctricos de alta tensión. Instala y mantiene equipos en plantas industriales y centrales eléctricas.",
+    "bio": "Diseñador de espacios verdes urbanos y rurales. Especializado en jardines sostenibles y restauración de ecosistemas.",
     "datecreateUser": "2024-05-15"
   },
   {
@@ -178,7 +178,7 @@
     "availableToWork": false,
     "email": "ricardo.romero@example.com",
     "password": "Asd_*1234",
-    "bio": "Experto en instalación y mantenimiento de sistemas de purificación y tratamiento de aguas residuales industriales.",
+    "bio": "specialista en farmacoterapia hospitalaria. Optimiza tratamientos medicamentosos y participa en ensayos clínicos.",
     "datecreateUser": "2024-06-01"
   },
   {
@@ -191,7 +191,7 @@
     "availableToWork": false,
     "email": "natalia.suarez@example.com",
     "password": "Asd_*1234",
-    "bio": "Docente especializado en la enseñanza a estudiantes con necesidades educativas especiales. Desarrolla planes de estudio individualizados.",
+    "bio": "Técnica certificada en mantenimiento de aeronaves comerciales. Realiza inspecciones de seguridad y reparaciones complejas.",
     "datecreateUser": "2024-06-05"
   },
   {
@@ -204,7 +204,7 @@
     "availableToWork": false,
     "email": "diego.sosa@example.com",
     "password": "Asd_*1234",
-    "bio": "Técnico certificado en mantenimiento de aeronaves comerciales. Realiza inspecciones de seguridad y reparaciones complejas.",
+    "bio": "Especialista en mejora del rendimiento de atletas de élite. Trabaja en técnicas de concentración y manejo del estrés competitivo",
     "datecreateUser": "2024-06-10"
   },
   {
@@ -217,7 +217,7 @@
     "availableToWork": false,
     "email": "isabel.ramos@example.com",
     "password": "Asd_*1234",
-    "bio": "Aviadora experimentada en vuelos de prueba de nuevas aeronaves. Evalúa el rendimiento y la seguridad de prototipos.",
+    "bio": "Técnico especializado en sistemas eléctricos de alta tensión. Instala y mantiene equipos en plantas industriales y centrales eléctricas",
     "datecreateUser": "2024-06-15"
   },
   {
