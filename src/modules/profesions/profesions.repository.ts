@@ -18,11 +18,12 @@ export class ProfesionsRepository {
 
   async seederProfesions() {
     const users = await this.userRepository.findAll();
+    let userIdIndex = 0;
     data?.map(async (element) => {
       const profession = new Profesion();
       profession.category = element.category;
-      profession.user = users[Math.round(Math.random() * 30)];
-
+      profession.user = users[userIdIndex % users.length];
+      userIdIndex++;
       await this.profesionsRepository.save(profession);
     });
   }
