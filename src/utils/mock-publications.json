@@ -1,7 +1,7 @@
 [
   {
-    "title": "Noticia 1",
-    "description": "Descripción detallada de la noticia 1.",
+    "title": "Médico Cardiólogo",
+    "description": "Se busca cardiólogo/a con experiencia en procedimientos invasivos. Debe tener habilidad en ecocardiografía y manejo de pacientes con insuficiencia cardíaca avanzada. Se valorará fellowship en electrofisiología.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Doctor",
     "remoteWork": false,
@@ -10,8 +10,8 @@
     "premium": false
   },
   {
-    "title": "Evento 2",
-    "description": "Descripción detallada del evento 2.",
+    "title": "Ingeniero de Software",
+    "description": "Buscamos ingeniero/a de software con al menos 5 años de experiencia en desarrollo backend. Dominio de Java y Spring Boot es esencial. Experiencia en arquitecturas de microservicios y despliegue en la nube (AWS) será altamente valorada.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Ingeniero",
     "remoteWork": false,
@@ -20,8 +20,8 @@
     "premium": false
   },
   {
-    "title": "Publicación 3",
-    "description": "Descripción detallada de la publicación 3.",
+    "title": "Profesor de Física",
+    "description": "Universidad de prestigio busca docente PhD en Física con especialización en mecánica cuántica. Se requiere experiencia en investigación y publicaciones en revistas indexadas. Capacidad para dirigir tesis doctorales es indispensable.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Profesor",
     "remoteWork": true,
@@ -30,8 +30,8 @@
     "premium": false
   },
   {
-    "title": "Noticia 4",
-    "description": "Descripción detallada de la noticia 4.",
+    "title": "Enfermera",
+    "description": "Hospital de tercer nivel requiere enfermera con especialidad en cuidados intensivos. Mínimo 3 años de experiencia en UCI. Certificación en ACLS y manejo de ventilación mecánica requerida. Turnos rotativos.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Enfermera",
     "remoteWork": false,
@@ -40,8 +40,8 @@
     "premium": true
   },
   {
-    "title": "Evento 5",
-    "description": "Descripción detallada del evento 5.",
+    "title": "Abogado Penalista",
+    "description": "Prestigioso bufete busca abogado/a penalista con más de 7 años de experiencia en litigios. Excelentes habilidades de oratoria y negociación. Experiencia en casos de cuello blanco será un plus. Disponibilidad para viajar.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Abogado",
     "remoteWork": false,
@@ -50,8 +50,8 @@
     "premium": true
   },
   {
-    "title": "Publicación 6",
-    "description": "Descripción detallada de la publicación 6.",
+    "title": "Arquitecto Paisajista",
+    "description": "Empresa de diseño urbano busca arquitecto/a paisajista con enfoque en sostenibilidad. Experiencia en proyectos de gran escala y conocimientos de flora nativa requeridos. Manejo avanzado de software de diseño 3D indispensable.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Arquitecto",
     "remoteWork": false,
@@ -60,8 +60,8 @@
     "premium": true
   },
   {
-    "title": "Noticia 7",
-    "description": "Descripción detallada de la noticia 7.",
+    "title": "Contador Forense",
+    "description": "Firma de auditoría internacional requiere contador/a forense certificado. Mínimo 5 años de experiencia en investigación de fraudes financieros. Conocimiento de IFRS y experiencia testificando en corte son indispensables.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Contador",
     "remoteWork": true,
@@ -70,8 +70,8 @@
     "premium": true
   },
   {
-    "title": "Evento 8",
-    "description": "Descripción detallada del evento 8.",
+    "title": "Chef Ejecutivo",
+    "description": "Restaurante de 5 estrellas busca chef ejecutivo/a con experiencia en cocina internacional. Mínimo 10 años de experiencia en roles de liderazgo culinario. Creatividad para desarrollar menús innovadores y habilidad para gestionar equipos grandes.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Chef",
     "remoteWork": false,
@@ -80,8 +80,8 @@
     "premium": true
   },
   {
-    "title": "Publicación 9",
-    "description": "Descripción detallada de la publicación 9.",
+    "title": "Odontólogo Ortodoncista",
+    "description": "Clínica dental de vanguardia busca ortodoncista certificado/a. Experiencia mínima de 5 años en tratamientos de ortodoncia invisible. Conocimientos en tecnología 3D para planificación de tratamientos requeridos.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Dentista",
     "remoteWork": true,
@@ -90,8 +90,8 @@
     "premium": true
   },
   {
-    "title": "Noticia 10",
-    "description": "Descripción detallada de la noticia 10.",
+    "title": "Farmacéutico Clínico",
+    "description": "Hospital universitario busca farmacéutico/a clínico/a para unirse a equipo multidisciplinario. Se requiere experiencia en farmacoterapia oncológica y manejo de protocolos de investigación. Doctorado en Farmacia Clínica preferible.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Farmacéutico",
     "remoteWork": false,
@@ -100,8 +100,8 @@
     "premium": true
   },
   {
-    "title": "Evento 11",
-    "description": "Descripción detallada del evento 11.",
+    "title": "Periodista",
+    "description": "Medio de comunicación líder busca periodista de investigación con experiencia en periodismo de datos. Habilidad para manejar fuentes confidenciales y conocimiento en técnicas de investigación digital son esenciales. Disponibilidad para trabajar en historias de largo aliento.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Periodista",
     "remoteWork": true,
@@ -110,8 +110,8 @@
     "premium": true
   },
   {
-    "title": "Publicación 12",
-    "description": "Descripción detallada de la publicación 12.",
+    "title": "Psicólogo Deportivo",
+    "description": "Federación deportiva nacional busca psicólogo/a deportivo/a para trabajar con atletas de élite. Se requiere maestría en psicología del deporte y experiencia trabajando con deportistas olímpicos. Conocimientos en técnicas de biofeedback serán valorados.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Psicólogo",
     "remoteWork": true,
@@ -120,8 +120,8 @@
     "premium": true
   },
   {
-    "title": "Noticia 13",
-    "description": "Descripción detallada de la noticia 13.",
+    "title": "Electricista Industrial",
+    "description": "Importante planta manufacturera busca electricista industrial con certificación en sistemas de alta tensión. Experiencia en mantenimiento preventivo y correctivo de maquinaria industrial. Conocimientos en automatización y PLC requeridos.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Electricista",
     "remoteWork": false,
@@ -130,8 +130,8 @@
     "premium": true
   },
   {
-    "title": "Evento 14",
-    "description": "Descripción detallada del evento 14.",
+    "title": "Fontanero",
+    "description": "Empresa de ingeniería ambiental requiere fontanero/a con especialización en sistemas de tratamiento de aguas residuales. Experiencia en instalación y mantenimiento de plantas de purificación industrial. Conocimientos en normativas ambientales indispensables.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Fontanero",
     "remoteWork": false,
@@ -140,8 +140,8 @@
     "premium": true
   },
   {
-    "title": "Publicación 15",
-    "description": "Descripción detallada de la publicación 15.",
+    "title": "Maestra Educación Especial",
+    "description": "Escuela inclusiva busca maestra de educación especial con experiencia en autismo y trastornos del aprendizaje. Capacidad para desarrollar planes educativos individualizados y trabajar en equipo con terapeutas. Certificación en método ABA será un plus.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Maestro",
     "remoteWork": true,
@@ -150,8 +150,8 @@
     "premium": false
   },
   {
-    "title": "Noticia 16",
-    "description": "Descripción detallada de la noticia 16.",
+    "title": "Mecánico de Aviación",
+    "description": "Aerolínea internacional busca mecánico/a de aviación certificado. Experiencia en mantenimiento de aeronaves comerciales y conocimientos de sistemas aviónica modernos requeridos. Disponibilidad para trabajar en turnos rotativos, incluyendo noches y fines de semana.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Mecánico",
     "remoteWork": false,
@@ -160,8 +160,8 @@
     "premium": false
   },
   {
-    "title": "Evento 17",
-    "description": "Descripción detallada del evento 17.",
+    "title": "Piloto de Pruebas",
+    "description": "Empresa aeroespacial requiere piloto de pruebas con experiencia en aeronaves experimentales. Mínimo 3000 horas de vuelo y formación en ingeniería aeronáutica. Habilidad para evaluar y reportar sobre el rendimiento de prototipos de aeronaves.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Piloto",
     "remoteWork": false,
@@ -170,8 +170,8 @@
     "premium": false
   },
   {
-    "title": "Publicación 18",
-    "description": "Descripción detallada de la publicación 18.",
+    "title": "Desarrollador de IA",
+    "description": "Startup de tecnología busca desarrollador/a senior de IA con experiencia en aprendizaje profundo y procesamiento del lenguaje natural. Conocimientos en TensorFlow y PyTorch son esenciales. Se valorará experiencia en implementación de modelos de IA en entornos de producción.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Programador",
     "remoteWork": true,
@@ -180,223 +180,183 @@
     "premium": false
   },
   {
-    "title": "Noticia 19",
-    "description": "Descripción detallada de la noticia 19.",
+    "title": "Médico Cardiólogo",
+    "description": "Se busca cardiólogo/a con experiencia en procedimientos invasivos. Debe tener habilidad en ecocardiografía y manejo de pacientes con insuficiencia cardíaca avanzada. Se valorará fellowship en electrofisiología.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Veterinario",
+    "category": "Doctor",
     "remoteWork": false,
-    "location": "Cuba",
-    "date": "2024-03-17",
+    "location": "Argentina",
+    "date": "2024-01-01",
     "premium": false
   },
   {
-    "title": "Evento 20",
-    "description": "Descripción detallada del evento 20.",
+    "title": "Ingeniero de Software",
+    "description": "Buscamos ingeniero/a de software con al menos 5 años de experiencia en desarrollo backend. Dominio de Java y Spring Boot es esencial. Experiencia en arquitecturas de microservicios y despliegue en la nube (AWS) será altamente valorada.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Bombero",
+    "category": "Ingeniero",
     "remoteWork": false,
-    "location": "República Dominicana",
-    "date": "2024-03-21",
+    "location": "Brasil",
+    "date": "2024-01-06",
     "premium": false
   },
   {
-    "title": "Publicación 21",
-    "description": "Descripción detallada de la publicación 21.",
+    "title": "Profesor de Física",
+    "description": "Universidad de prestigio busca docente PhD en Física con especialización en mecánica cuántica. Se requiere experiencia en investigación y publicaciones en revistas indexadas. Capacidad para dirigir tesis doctorales es indispensable.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Policía",
-    "remoteWork": false,
-    "location": "Haití",
-    "date": "2024-03-25",
-    "premium": false
-  },
-  {
-    "title": "Noticia 22",
-    "description": "Descripción detallada de la noticia 22.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Paramédico",
-    "remoteWork": false,
-    "location": "Jamaica",
-    "date": "2024-03-29",
-    "premium": false
-  },
-  {
-    "title": "Evento 23",
-    "description": "Descripción detallada del evento 23.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Fotógrafo",
-    "remoteWork": false,
-    "location": "Trinidad y Tobago",
-    "date": "2024-04-01",
-    "premium": false
-  },
-  {
-    "title": "Publicación 24",
-    "description": "Descripción detallada de la publicación 24.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Artista",
+    "category": "Profesor",
     "remoteWork": true,
-    "location": "Belice",
-    "date": "2024-04-07",
+    "location": "Chile",
+    "date": "2024-01-11",
     "premium": false
   },
   {
-    "title": "Noticia 25",
-    "description": "Descripción detallada de la noticia 25.",
+    "title": "Enfermera",
+    "description": "Hospital de tercer nivel requiere enfermera con especialidad en cuidados intensivos. Mínimo 3 años de experiencia en UCI. Certificación en ACLS y manejo de ventilación mecánica requerida. Turnos rotativos.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Economista",
-    "remoteWork": true,
-    "location": "Guyana",
-    "date": "2024-04-13",
-    "premium": false
-  },
-  {
-    "title": "Evento 26",
-    "description": "Descripción detallada del evento 26.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Científico",
-    "remoteWork": true,
-    "location": "Surinam",
-    "date": "2024-04-19",
-    "premium": false
-  },
-  {
-    "title": "Publicación 27",
-    "description": "Descripción detallada de la publicación 27.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Astronauta",
+    "category": "Enfermera",
     "remoteWork": false,
-    "location": "Canadá",
-    "date": "2024-04-25",
-    "premium": false
+    "location": "Uruguay",
+    "date": "2024-01-16",
+    "premium": true
   },
   {
-    "title": "Noticia 28",
-    "description": "Descripción detallada de la noticia 28.",
+    "title": "Abogado Penalista",
+    "description": "Prestigioso bufete busca abogado/a penalista con más de 7 años de experiencia en litigios. Excelentes habilidades de oratoria y negociación. Experiencia en casos de cuello blanco será un plus. Disponibilidad para viajar.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Abogado",
+    "remoteWork": false,
+    "location": "Paraguay",
+    "date": "2024-01-21",
+    "premium": true
+  },
+  {
+    "title": "Arquitecto Paisajista",
+    "description": "Empresa de diseño urbano busca arquitecto/a paisajista con enfoque en sostenibilidad. Experiencia en proyectos de gran escala y conocimientos de flora nativa requeridos. Manejo avanzado de software de diseño 3D indispensable.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Arquitecto",
+    "remoteWork": false,
+    "location": "Perú",
+    "date": "2024-01-26",
+    "premium": true
+  },
+  {
+    "title": "Contador Forense",
+    "description": "Firma de auditoría internacional requiere contador/a forense certificado. Mínimo 5 años de experiencia en investigación de fraudes financieros. Conocimiento de IFRS y experiencia testificando en corte son indispensables.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Contador",
+    "remoteWork": true,
+    "location": "Colombia",
+    "date": "2024-02-01",
+    "premium": true
+  },
+  {
+    "title": "Chef Ejecutivo",
+    "description": "Restaurante de 5 estrellas busca chef ejecutivo/a con experiencia en cocina internacional. Mínimo 10 años de experiencia en roles de liderazgo culinario. Creatividad para desarrollar menús innovadores y habilidad para gestionar equipos grandes.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
     "category": "Chef",
     "remoteWork": false,
-    "location": "Estados Unidos",
-    "date": "2024-05-01",
-    "premium": false
-  },
-  {
-    "title": "Evento 29",
-    "description": "Descripción detallada del evento 29.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Electricista",
-    "remoteWork": true,
-    "location": "Argentina",
-    "date": "2024-05-05",
-    "premium": false
-  },
-  {
-    "title": "Publicación 30",
-    "description": "Descripción detallada de la publicación 30.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Construcción",
-    "remoteWork": false,
-    "location": "Brasil",
-    "date": "2024-05-09",
-    "premium": false
-  },
-  {
-    "title": "Noticia 31",
-    "description": "Descripción detallada de la noticia 31.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Pintor",
-    "remoteWork": false,
-    "location": "Chile",
-    "date": "2024-05-13",
-    "premium": false
-  },
-  {
-    "title": "Evento 32",
-    "description": "Descripción detallada del evento 32.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Call Center",
-    "remoteWork": true,
-    "location": "Uruguay",
-    "date": "2024-05-17",
-    "premium": false
-  },
-  {
-    "title": "Publicación 33",
-    "description": "Descripción detallada de la publicación 33.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Maestro de Manejo",
-    "remoteWork": false,
-    "location": "Paraguay",
-    "date": "2024-05-21",
-    "premium": false
-  },
-  {
-    "title": "Noticia 34",
-    "description": "Descripción detallada de la noticia 34.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Odontólogo",
-    "remoteWork": false,
-    "location": "Perú",
-    "date": "2024-05-25",
-    "premium": false
-  },
-  {
-    "title": "Evento 35",
-    "description": "Descripción detallada del evento 35.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Mozo",
-    "remoteWork": false,
-    "location": "Colombia",
-    "date": "2024-05-29",
-    "premium": false
-  },
-  {
-    "title": "Publicación 36",
-    "description": "Descripción detallada de la publicación 36.",
-    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Kinesiólogo",
-    "remoteWork": false,
     "location": "Venezuela",
-    "date": "2024-06-01",
-    "premium": false
+    "date": "2024-02-05",
+    "premium": true
   },
   {
-    "title": "Noticia 37",
-    "description": "Descripción detallada de la noticia 37.",
+    "title": "Odontólogo Ortodoncista",
+    "description": "Clínica dental de vanguardia busca ortodoncista certificado/a. Experiencia mínima de 5 años en tratamientos de ortodoncia invisible. Conocimientos en tecnología 3D para planificación de tratamientos requeridos.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Broker",
+    "category": "Dentista",
     "remoteWork": true,
     "location": "Ecuador",
-    "date": "2024-06-05",
-    "premium": false
+    "date": "2024-02-09",
+    "premium": true
   },
   {
-    "title": "Evento 38",
-    "description": "Descripción detallada del evento 38.",
+    "title": "Farmacéutico Clínico",
+    "description": "Hospital universitario busca farmacéutico/a clínico/a para unirse a equipo multidisciplinario. Se requiere experiencia en farmacoterapia oncológica y manejo de protocolos de investigación. Doctorado en Farmacia Clínica preferible.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Nutricionista",
-    "remoteWork": true,
+    "category": "Farmacéutico",
+    "remoteWork": false,
     "location": "Bolivia",
-    "date": "2024-06-09",
-    "premium": false
+    "date": "2024-02-13",
+    "premium": true
   },
   {
-    "title": "Publicación 39",
-    "description": "Descripción detallada de la publicación 39.",
+    "title": "Periodista",
+    "description": "Medio de comunicación líder busca periodista de investigación con experiencia en periodismo de datos. Habilidad para manejar fuentes confidenciales y conocimiento en técnicas de investigación digital son esenciales. Disponibilidad para trabajar en historias de largo aliento.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Personal Trainer",
+    "category": "Periodista",
     "remoteWork": true,
     "location": "México",
-    "date": "2024-06-13",
+    "date": "2024-02-17",
+    "premium": true
+  },
+  {
+    "title": "Psicólogo Deportivo",
+    "description": "Federación deportiva nacional busca psicólogo/a deportivo/a para trabajar con atletas de élite. Se requiere maestría en psicología del deporte y experiencia trabajando con deportistas olímpicos. Conocimientos en técnicas de biofeedback serán valorados.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Psicólogo",
+    "remoteWork": true,
+    "location": "Costa Rica",
+    "date": "2024-02-21",
+    "premium": true
+  },
+  {
+    "title": "Electricista Industrial",
+    "description": "Importante planta manufacturera busca electricista industrial con certificación en sistemas de alta tensión. Experiencia en mantenimiento preventivo y correctivo de maquinaria industrial. Conocimientos en automatización y PLC requeridos.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Electricista",
+    "remoteWork": false,
+    "location": "Panamá",
+    "date": "2024-02-25",
+    "premium": true
+  },
+  {
+    "title": "Fontanero",
+    "description": "Empresa de ingeniería ambiental requiere fontanero/a con especialización en sistemas de tratamiento de aguas residuales. Experiencia en instalación y mantenimiento de plantas de purificación industrial. Conocimientos en normativas ambientales indispensables.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Fontanero",
+    "remoteWork": false,
+    "location": "Guatemala",
+    "date": "2024-02-28",
+    "premium": true
+  },
+  {
+    "title": "Maestra Educación Especial",
+    "description": "Escuela inclusiva busca maestra de educación especial con experiencia en autismo y trastornos del aprendizaje. Capacidad para desarrollar planes educativos individualizados y trabajar en equipo con terapeutas. Certificación en método ABA será un plus.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Maestro",
+    "remoteWork": true,
+    "location": "Honduras",
+    "date": "2024-03-01",
     "premium": false
   },
   {
-    "title": "Noticia 40",
-    "description": "Descripción detallada de la noticia 40.",
+    "title": "Mecánico de Aviación",
+    "description": "Aerolínea internacional busca mecánico/a de aviación certificado. Experiencia en mantenimiento de aeronaves comerciales y conocimientos de sistemas aviónica modernos requeridos. Disponibilidad para trabajar en turnos rotativos, incluyendo noches y fines de semana.",
     "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
-    "category": "Niñera",
+    "category": "Mecánico",
+    "remoteWork": false,
+    "location": "Nicaragua",
+    "date": "2024-03-05",
+    "premium": false
+  },
+  {
+    "title": "Piloto de Pruebas",
+    "description": "Empresa aeroespacial requiere piloto de pruebas con experiencia en aeronaves experimentales. Mínimo 3000 horas de vuelo y formación en ingeniería aeronáutica. Habilidad para evaluar y reportar sobre el rendimiento de prototipos de aeronaves.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Piloto",
+    "remoteWork": false,
+    "location": "El Salvador",
+    "date": "2024-03-09",
+    "premium": false
+  },
+  {
+    "title": "Desarrollador de IA",
+    "description": "Startup de tecnología busca desarrollador/a senior de IA con experiencia en aprendizaje profundo y procesamiento del lenguaje natural. Conocimientos en TensorFlow y PyTorch son esenciales. Se valorará experiencia en implementación de modelos de IA en entornos de producción.",
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOLZ38GtcWqW9f2LigkqCSkYrlUCgrIispJBblX7L5x6nFaRAr",
+    "category": "Programador",
     "remoteWork": true,
-    "location": "Costa Rica",
-    "date": "2024-06-17",
+    "location": "Puerto Rico",
+    "date": "2024-03-13",
     "premium": false
   }
 ]
