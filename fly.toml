@@ -11,11 +11,6 @@ primary_region = 'eze'
   min_machines_running = 1
   processes = ['app']
 
-  [http_service.concurrency]
-    type = "connections"
-    hard_limit = 25
-    soft_limit = 20
-
   [[http_service.checks]]
     interval = "10s"
     timeout = "2s"
