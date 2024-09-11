@@ -25,6 +25,7 @@ async function bootstrap() {
   const document = SwaggerModule.createDocument(app, swaggerConfig);
   app.useGlobalPipes(new ValidationPipe());
   SwaggerModule.setup('api', app, document);
-  await app.listen(port);
+  // Configura el servidor para escuchar en 0.0.0.0
+  await app.listen(port, '0.0.0.0');
 }
 bootstrap();
