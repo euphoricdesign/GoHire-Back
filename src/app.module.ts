@@ -21,6 +21,7 @@ import { AuthGuard } from './guards/auth.guard';
 import { ChatModule } from './chat/chat.module';
 import { InvitationModule } from './modules/invitation/invitation.module';
 import { StatisticsModule } from './modules/statistics/statistics.module';
+import { HealthController } from './health.controller';
 
 @Module({
   imports: [
@@ -56,7 +57,7 @@ import { StatisticsModule } from './modules/statistics/statistics.module';
     StatisticsModule,
   ],
 
-  controllers: [AppController],
+  controllers: [AppController, HealthController],
   providers: [
     AppService,
     {
