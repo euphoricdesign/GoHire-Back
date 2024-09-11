@@ -5,11 +5,12 @@ dotenvConfig({ path: '.env' });
 
 const config = {
   type: 'postgres',
-  database: process.env.DB_NAME0,
-  host: process.env.DB_HOST,
-  port: process.env.DB_PORT as unknown as number,
-  username: process.env.DB_USERNAME,
-  password: String(process.env.DB_PASSWORD),
+  url: process.env.DATABASE_URL, // Usar la URL de la base de datos si está disponible
+  database: process.env.DATABASE_URL ? undefined : process.env.DB_NAME,
+  host: process.env.DATABASE_URL ? undefined : process.env.DB_HOST,
+  port: process.env.DATABASE_URL ? undefined : process.env.DB_PORT as unknown as number,
+  username: process.env.DATABASE_URL ? undefined : process.env.DB_USERNAME,
+  password: process.env.DATABASE_URL ? undefined : String(process.env.DB_PASSWORD),
   entities: ['dist/**/*.entity{.ts,.js}'],
   migrations: ['dist/migrations/*{.ts,.js}'],
   logging: ['error'],
